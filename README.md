@@ -1,1 +1,1 @@
-# ProfcomeHtmlLetter4Sponsors
+# HTML-письмо спонсорам от Профкома ВМК
